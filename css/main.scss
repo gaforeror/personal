@@ -47,14 +47,18 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
-.site-nav:hover {
+
+a.page-link:hover {
 background: #00a1f1;
+padding: 20px;
+text-decoration: none;
 }
 .site-nav {
 background: #0070a8;
 }
 .site-nav .page-link {
 color: #fff;
+padding: 20px;
 }
 
 .main

@@ -448,14 +448,17 @@ pre {
   .highlight .il {
     color: #099; }
 
-.site-nav:hover {
-  background: #00a1f1; }
+a.page-link:hover {
+  background: #00a1f1;
+  padding: 20px;
+  text-decoration: none; }
 
 .site-nav {
   background: #0070a8; }
 
 .site-nav .page-link {
-  color: #fff; }
+  color: #fff;
+  padding: 20px; }
 
 .main {
   position: relative;
